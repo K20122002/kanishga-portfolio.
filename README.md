@@ -2,113 +2,134 @@
 
 📍 Bengaluru, India  
 📧 kanishgailangovan@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/kanishga-i-24b575210)  
-🔗 [Certification Showcase](https://www.linkedin.com/posts/kanishga-i-24b575210_certification-activity-7345700096686100480-1N10)
+🔗 [LinkedIn](https://www.linkedin.com/in/kanishga-i-24b575210)
 
 ---
 
 ## 🧬 About Me
 
-Dedicated and detail-oriented Forensic Science postgraduate with hands-on experience in both **physical evidence analysis** and **cybersecurity**. Passionate about applying forensic techniques and ethical hacking skills to real-world investigations. I aim to blend scientific precision with cyber intelligence to contribute meaningfully to criminal justice and information security domains.
+Dedicated and detail-oriented Forensic Science postgraduate with hands-on experience in both physical evidence analysis and cybersecurity. Passionate about applying forensic techniques and ethical hacking skills to investigative work. With over a year of practical experience, I continuously apply my problem-solving abilities to deliver impactful results in the fields of forensics and cybercrime investigation.
 
 ---
 
 ## 🎓 Education
 
-- **M.Sc. in Forensic Science**  
-  *Garden City University, Bengaluru* – 2025  
-  CGPA: 80.37%
+- **M.Sc. Forensic Science**  
+  *Garden City University, 2025* — 80.37%
 
-- **B.Sc. in Forensic Science**  
-  *Kalasalingam Academy of Research and Education* – 2023  
-  CGPA: 76.00%
+- **B.Sc. Forensic Science**  
+  *Kalasalingam Academy of Research and Education, 2023* — 76.00%
 
----
+- **HSC** – SBK Girls Higher Secondary School, 2020 — 56.17%
 
-## 🧪 Key Projects
-
-### 🔍 1. Half-Life of Poisons in Pig Carcass (Raman Spectroscopy)
-- Studied pesticide breakdown over time in pig carcasses using Raman spectroscopy.
-- Tools Used: Raman Spectrometer  
-- Pesticides: Malathion, Chlorpyrifos
-
-### 🧴 2. Ecofriendly Fingerprint Powder
-- Developed non-toxic fingerprint powder using natural materials.
-- Tools: Motor & pestle, UV light, microscopes
-
-### 🔧 3. Occupational Marks in Fingerprint & Palm Prints (Review Study)
-- Analyzed occupational patterns in fingerprints of electricians and mechanics.
-
-### 🕵️ 4. Survey: Underutilization of Forensic Expertise in India
-- Conducted a survey with 230 respondents (forensic experts & law enforcement).
-- Tools Used: MS Excel, Google Forms  
-- Highlighted systemic issues and need for policy reforms in Indian investigations.
+- **SSLC** – Syed Ammal Matric Girls Higher Secondary School, 2018 — 86.60%
 
 ---
 
-## 💼 Internship Experience
+## 💼 Experience
 
-### 🔐 TXEL Cyber Security, Bangalore – *Cyber Security Analyst Intern*  
-**Duration:** Feb 2025 – May 2025  
-- Performed penetration testing and ethical hacking using Burp Suite, Nmap, Wireshark  
-- Created SOC reports and documented vulnerabilities  
-- Worked with FTK Imager, Autopsy, Metasploit
+### 🔐 PG Internship – **Texial Cyber Security, Bangalore**  
+**Cyber Security Analyst Intern** *(Feb 2025 – May 2025)*  
+- Performed ethical hacking and penetration testing.  
+- Used Burp Suite, Nmap, Wireshark, and Metasploit in lab simulations.  
+- Documented vulnerabilities and created SOC reports.  
+- Gained exposure to incident response workflows and log analysis.
 
-### 🧾 Clue for Evidence Forensic Lab – *Forensic Intern*  
-**Duration:** June 2022  
-- Conducted mock crime scene analysis  
-- Practiced fingerprint lifting, trace analysis, DNA collection, toxicology  
-- Assisted in document and ballistics examination
+### 🧾 UG Internship – **Clue for Evidence Forensic Lab** *(June 2022)*  
+- Assisted in mock crime scene investigations and evidence documentation.  
+- Practiced fingerprint lifting, DNA collection, and trace analysis.  
+- Participated in toxicology, document examination, and ballistics testing.
+
+---
+
+## 🔬 Key Projects
+
+### 🧪 **Half-Life of Poisons in Pig Carcass (Raman Spectroscopy)**  
+Studied the breakdown intervals of malathion and chlorpyrifos in decomposing pig carcass tissue using Raman Spectroscopy.
+
+### 🌱 **Ecofriendly Fingerprint Powder**  
+Developed a lead-free and mercury-free organic fingerprint powder using accessible materials and microscopy analysis.
+
+### 🛠️ **Forensic Review: Occupational Marks on Fingerprints**  
+Explored distinctive fingerprint patterns in electricians and mechanics due to occupational wear for identity profiling.
+
+### 🕵️ **Survey: Underutilization of Forensic Experts in India**  
+Surveyed 230 participants to analyze the dominance of law enforcement in evidence handling and need for forensic independence.  
+Tools Used: Google Forms, Excel
 
 ---
 
 ## 🛠️ Skills
 
-### 🧪 Forensic Science
-- Crime Scene Documentation, Trace Evidence, Microscopy  
-- Fingerprint & Document Examination
+### 🔍 Forensic Skills
+- Fingerprint Analysis  
+- Crime Scene Documentation  
+- Trace Evidence & Microscopy  
+- Document Examination
 
-### 🛡️ Cybersecurity
-- Tools: Burp Suite, SQLMap, Nessus, Maltego, Hashcat  
-- Concepts: Ethical Hacking, Port Scanning, Network Security, Vulnerability Assessment  
-- Forensics Tools: FTK Imager, Autopsy, Cellebrite UFED, EnCase
+### 🔐 Cybersecurity Tools
+- Burp Suite, SQLMap, Maltego, Nessus, Hashcat  
+- FTK Imager, Autopsy, Cellebrite UFED, EnCase
 
-### 🧠 Soft Skills
-- Communication • Attention to Detail • Problem Solving • Legal Compliance
+### 🧠 Technical Concepts
+- Ethical Hacking  
+- Network Security  
+- Penetration Testing  
+- Incident Response
+
+### 💡 Soft Skills
+- Report Writing  
+- Legal Understanding  
+- Communication & Teamwork  
+- Problem-Solving
 
 ---
 
-## 🏅 Certifications
+## 📜 Certifications
 
 | Certificate | Issuer | Year |
 |------------|--------|------|
-| **Information Security Auditor** | Texial | Jul 2025 – Jul 2028 |
+| Information Security Auditor | Texial | 2025 – 2028 |
 | Forensic Accounting & Fraud | WVU (Coursera) | 2025 |
 | Penetration Testing, IR & Forensics | IBM (Coursera) | 2025 |
-| Wonders of Forensic Odontology | Vidh Forensics | 2021 |
+| Sustainable Tourism (Public Health) | Coursera | 2025 |
+| Forensic Odontology Case Study | Vidh Forensics | 2021 |
+| ACE-V Methodology in Fingerprint Examination | Vidh Forensics | 2021 |
 | DNA Fingerprinting in Crime | Acropolis | 2021 |
+| Forensic Perspective | JAIN | 2021 |
 
-More: [LinkedIn Certifications](https://www.linkedin.com/in/kanishga-i-24b575210/details/certifications/)
+---
+
+## 🗣️ Languages
+
+- English  
+- Tamil
 
 ---
 
 ## 💡 Interests
 
-- Crime Scene Investigation  
-- Digital Forensics & Cybercrime  
-- Fingerprint and Document Examination  
-- Ethical Hacking & Cybersecurity  
-- Law Enforcement Collaboration
+- Crime Scene Investigation & Reconstruction  
+- Digital Forensics & Cybercrime Detection  
+- Ethical Hacking & Vulnerability Analysis  
+- Fingerprint & Document Examination  
+- Cybersecurity Awareness
 
 ---
 
-## 📫 Contact
+## 📄 Documents
 
-📧 Email: [kanishgailangovan@gmail.com](mailto:kanishgailangovan@gmail.com)  
-🔗 LinkedIn: [kanishga-i-24b575210](https://www.linkedin.com/in/kanishga-i-24b575210)
+- 📄 [Download My Resume (PDF)](KANISHGA_I_CV.pdf) *(Upload it to your repo first)*
 
 ---
 
-📄 [Download My Resume (PDF)](KANISHGA_I_CV.pdf)
+## 🔗 GitHub Pages Site (Optional)
 
+To turn this repo into a website:
+1. Go to `Settings` → `Pages`
+2. Set `Source` to `main` branch
+3. Your portfolio will be live at:  
+   `https://K20122002.github.io/kanishga-portfolio/`
+
+---
 
