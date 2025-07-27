@@ -120,16 +120,3 @@ Tools Used: Google Forms, Excel
 ## 📄 Documents
 
 - 📄 [Download My Resume (PDF)](KANISHGA_I_CV.pdf) *(Upload it to your repo first)*
-
----
-
-## 🔗 GitHub Pages Site (Optional)
-
-To turn this repo into a website:
-1. Go to `Settings` → `Pages`
-2. Set `Source` to `main` branch
-3. Your portfolio will be live at:  
-   `https://K20122002.github.io/kanishga-portfolio/`
-
----
-
