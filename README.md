@@ -110,5 +110,22 @@ More: [LinkedIn Certifications](https://www.linkedin.com/in/kanishga-i-24b575210
 ---
 
 📄 [Download My Resume (PDF)](KANISHGA_I_CV.pdf)
+<p>Check out my GitHub Portfolio: 
+  <a href="https://github.com/K20122002/kanishga-portfolio" target="_blank">
+    github.com/K20122002/kanishga-portfolio
+  </a>
+</p>
+<a href="https://github.com/K20122002/kanishga-portfolio" target="_blank" style="
+  display: inline-block;
+  background-color: #24292e;
+  color: white;
+  padding: 10px 20px;
+  border-radius: 5px;
+  text-decoration: none;
+  font-weight: bold;
+">
+  🔗 View My GitHub Portfolio
+</a>
+https://K20122002.github.io/kanishga-portfolio/
 
 
