@@ -109,5 +109,6 @@ More: [LinkedIn Certifications](https://www.linkedin.com/in/kanishga-i-24b575210
 
 ---
 
-## resume pdfvv 
+📄 [Download My Resume (PDF)](KANISHGA_I_CV.pdf)
+
 
