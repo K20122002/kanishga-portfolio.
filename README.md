@@ -109,10 +109,5 @@ More: [LinkedIn Certifications](https://www.linkedin.com/in/kanishga-i-24b575210
 
 ---
 
-## 🔗 GitHub Pages (Optional)
-
-To host this portfolio as a **website**, go to:  
-`Settings > Pages > Source: main branch > Save`  
-Your site will be live at:  
----
+## resume pdfvv 
 
